@@ -1,0 +1,3 @@
+* reading 
+* walking
+* swimming 
